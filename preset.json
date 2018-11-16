@@ -1,0 +1,11 @@
+{
+  "useConfigFiles": true,
+  "router": true,
+  "vuex": true,
+  "cssPreprocessor": "sass",
+  "plugins": {
+    "vue-cli-plugin-element": {
+      "version": "^1.0.0"
+    }
+  }
+}
